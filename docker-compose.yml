@@ -1,0 +1,33 @@
+services:
+  api:
+    container_name: api
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+      target: production
+    restart: always
+    environment:
+      - PORT=${PORT}
+    env_file: .env
+    depends_on:
+      - cockroachdb
+    profiles:
+      - production
+    networks:
+      - backend
+
+  cockroachdb:
+    container_name: cockroachdb
+    image: cockroachdb/cockroach:v23.1.13
+    restart: on-failure
+    networks:
+      - backend
+    ports:
+      - ${COCKROACHDB_PORT}:26257
+    volumes:
+      - ./cockroach-data:/cockroach/cockroach-data
+    command: start-single-node --insecure
+
+networks:
+  backend:
+    driver: bridge

@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "start-engine",
+      "type": "shell",
+      "command": "npm run prisma:generate; npm run prisma:deploy;",
+      "dependsOn": "recreate"
+    },
+    {
+      "label": "recreate",
+      "type": "shell",
+      "command": "docker compose --profile development up -d"
+    },
+    {
+      "label": "stop-engine",
+      "type": "shell",
+      "command": "docker compose stop"
+    }
+  ]
+}
