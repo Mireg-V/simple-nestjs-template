@@ -1,0 +1,522 @@
+[
+  {
+    "day": "2024-11-08 15:15",
+    "files": [
+      "simple-nestjs-template/tsconfig.json"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:54",
+    "files": [
+      "simple-nestjs-template/src/post/post.module.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:55",
+    "files": [
+      "simple-nestjs-template/src/post/post.module.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:56",
+    "files": [
+      "simple-nestjs-template/src/post/post.module.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:57",
+    "files": [
+      "simple-nestjs-template/src/post/post.module.ts",
+      "simple-nestjs-template/docker-compose.yml"
+    ]
+  },
+  {
+    "day": "2024-11-08 14:45",
+    "files": [
+      "simple-nestjs-template/.env",
+      "simple-nestjs-template/src/main.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 14:53",
+    "files": [
+      "simple-nestjs-template/.env"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:49",
+    "files": [
+      "simple-nestjs-template/.env"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:25",
+    "files": [
+      "simple-nestjs-template/.env",
+      "simple-nestjs-template/.gitignore"
+    ]
+  },
+  {
+    "day": "2024-11-08 14:44",
+    "files": [
+      "simple-nestjs-template/src/application/application.controller.ts",
+      "simple-nestjs-template/src/application/application.service.ts",
+      "simple-nestjs-template/src/application/application.module.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 14:54",
+    "files": [
+      "simple-nestjs-template/.vscode/launch.json",
+      "simple-nestjs-template/docker-compose.yml"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:41",
+    "files": [
+      "simple-nestjs-template/.vscode/launch.json",
+      "simple-nestjs-template/src/auth/addon/auth.guard.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:18",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.guard.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:48",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.guard.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:10",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.guard.ts",
+      "simple-nestjs-template/src/auth/auth.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 14:55",
+    "files": [
+      "simple-nestjs-template/.vscode/tasks.json"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:58",
+    "files": [
+      "simple-nestjs-template/.vscode/tasks.json"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:17",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:30",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:45",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:05",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:07",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 14:43",
+    "files": [
+      "simple-nestjs-template/README.md"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:50",
+    "files": [
+      "simple-nestjs-template/README.md"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:31",
+    "files": [
+      "simple-nestjs-template/src/auth/auth.module.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:28",
+    "files": [
+      "simple-nestjs-template/src/application/addon/profanity.data.ts",
+      "simple-nestjs-template/src/application/addon/no-profanity.validator.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:45",
+    "files": [
+      "simple-nestjs-template/src/application/addon/response.conflict.decorator.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:01",
+    "files": [
+      "simple-nestjs-template/package.json"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:26",
+    "files": [
+      "simple-nestjs-template/src/application/addon/no-profanity.validator.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:41",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.guard.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:32",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.guard.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:04",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/configuration.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:58",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:59",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:34",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:43",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:46",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts",
+      "simple-nestjs-template/src/auth/auth.controller.ts",
+      "simple-nestjs-template/src/auth/auth.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:53",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:59",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts",
+      "simple-nestjs-template/src/auth/auth.controller.ts",
+      "simple-nestjs-template/src/auth/auth.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:04",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts",
+      "simple-nestjs-template/src/auth/auth.service.ts",
+      "simple-nestjs-template/src/post/post.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:06",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts",
+      "simple-nestjs-template/src/auth/auth.controller.ts",
+      "simple-nestjs-template/src/auth/auth.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:19",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts",
+      "simple-nestjs-template/src/user/addon/user.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:21",
+    "files": [
+      "simple-nestjs-template/src/user/user.service.ts",
+      "simple-nestjs-template/src/auth/auth.controller.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:29",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:30",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:04",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.dto.ts",
+      "simple-nestjs-template/src/auth/addon/auth.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:07",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.dto.ts",
+      "simple-nestjs-template/src/auth/auth.controller.ts",
+      "simple-nestjs-template/src/auth/auth.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:21",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:22",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:47",
+    "files": [
+      "simple-nestjs-template/src/application/addon/responce.success.decorator.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:44",
+    "files": [
+      "simple-nestjs-template/src/application/addon/response.interface.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:14",
+    "files": [
+      "simple-nestjs-template/src/user/addon/user.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:29",
+    "files": [
+      "simple-nestjs-template/src/user/addon/user.entity.ts",
+      "simple-nestjs-template/src/user/addon/user.decorator.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:55",
+    "files": [
+      "simple-nestjs-template/src/user/addon/user.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:05",
+    "files": [
+      "simple-nestjs-template/src/user/addon/user.entity.ts",
+      "simple-nestjs-template/src/auth/addon/auth.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:19",
+    "files": [
+      "simple-nestjs-template/src/user/addon/user.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:13",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:34",
+    "files": [
+      "simple-nestjs-template/src/post/addon/post.entity.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:02",
+    "files": [
+      "simple-nestjs-template/src/user/user.controller.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:09",
+    "files": [
+      "simple-nestjs-template/src/user/user.controller.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:12",
+    "files": [
+      "simple-nestjs-template/src/user/user.controller.ts",
+      "simple-nestjs-template/src/post/post.controller.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:43",
+    "files": [
+      "simple-nestjs-template/src/main.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:28",
+    "files": [
+      "simple-nestjs-template/src/auth/auth.service.ts",
+      "simple-nestjs-template/src/auth/addon/auth.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:29",
+    "files": [
+      "simple-nestjs-template/src/auth/auth.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:38",
+    "files": [
+      "simple-nestjs-template/src/auth/auth.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:08",
+    "files": [
+      "simple-nestjs-template/src/auth/auth.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:16",
+    "files": [
+      "simple-nestjs-template/src/auth/auth.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:32",
+    "files": [
+      "simple-nestjs-template/src/user/user.module.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:24",
+    "files": [
+      "simple-nestjs-template/src/user/user.module.ts",
+      "simple-nestjs-template/src/application/application.module.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:53",
+    "files": [
+      "simple-nestjs-template/src/application/application.module.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 14:50",
+    "files": [
+      "simple-nestjs-template/prisma/schema.prisma"
+    ]
+  },
+  {
+    "day": "2024-11-08 14:57",
+    "files": [
+      "simple-nestjs-template/prisma/schema.prisma"
+    ]
+  },
+  {
+    "day": "2024-11-08 15:28",
+    "files": [
+      "simple-nestjs-template/src/user/addon/user.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:03",
+    "files": [
+      "simple-nestjs-template/src/user/addon/user.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:38",
+    "files": [
+      "simple-nestjs-template/src/post/post.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:51",
+    "files": [
+      "simple-nestjs-template/src/post/post.service.ts",
+      "simple-nestjs-template/src/post/post.controller.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:59",
+    "files": [
+      "simple-nestjs-template/src/prisma/prisma.service.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:21",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 16:36",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:02",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 18:06",
+    "files": [
+      "simple-nestjs-template/src/auth/addon/auth.dto.ts"
+    ]
+  },
+  {
+    "day": "2024-11-08 17:40",
+    "files": [
+      "simple-nestjs-template/src/post/post.controller.ts"
+    ]
+  }
+]
